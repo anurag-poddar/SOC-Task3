@@ -1,0 +1,1 @@
+Multiple failed login attempts followed by a successful login and high-volume data transfer were observed from IP 192.168.1.100. This indicates a possible brute-force attack followed by data exfiltration.
