@@ -11,3 +11,10 @@ Perform log correlation, anomaly detection, and log enrichment to identify suspi
 
 ## Outcome
 Successfully identified a potential brute-force attack followed by data exfiltration.
+
+
+## Task 2: Threat Intelligence Integration
+
+- Enriched alerts using simulated threat intelligence feeds
+- Identified malicious IP (C2 server)
+- Performed threat hunting using MITRE T1078
