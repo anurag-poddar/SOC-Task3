@@ -18,3 +18,11 @@ Successfully identified a potential brute-force attack followed by data exfiltra
 - Enriched alerts using simulated threat intelligence feeds
 - Identified malicious IP (C2 server)
 - Performed threat hunting using MITRE T1078
+
+
+## Task 3: Incident Escalation
+
+- Simulated high-priority incident (Unauthorized Access)
+- Created escalation summary
+- Drafted SITREP report
+- Mapped incident to MITRE T1078
